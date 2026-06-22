@@ -1,0 +1,14 @@
+{
+    "filename": "yfinance_AAPL_2023_2024.parquet",
+    "total_rows": 501,
+    "missing_rate": 0.0,
+    "start_date": "2023-01-03T05:00:00+00:00",
+    "end_date": "2024-12-30T05:00:00+00:00",
+    "frequency": "Daily",
+    "stats": {
+        "mean": 187.7746239850621,
+        "std": 27.957358016502194,
+        "min": 122.93355560302734,
+        "max": 257.3756408691406
+    }
+}
